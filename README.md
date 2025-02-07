@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="310" src="https://i.postimg.cc/mZ0NfNv5/Blue-and-White-Illustrated-Welcome-Banner-1-1.png"  />
 </div>
 
 ###
